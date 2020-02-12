@@ -1,0 +1,14 @@
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\bin\Debug\TcpProject.exe.config
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\bin\Debug\TcpProject.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\bin\Debug\TcpProject.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\bin\Debug\BaseDAL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\bin\Debug\Common.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\bin\Debug\MySql.Data.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\bin\Debug\BaseBLL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\bin\Debug\Common.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\obj\Debug\TcpProjectMySQL.csprojResolveAssemblyReference.cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\obj\Debug\TcpProject.FormMySQL.resources
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\obj\Debug\TcpProject.Properties.Resources.resources
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\obj\Debug\TcpProjectMySQL.csproj.GenerateResource.Cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\obj\Debug\TcpProject.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\TcpProject\obj\Debug\TcpProject.pdb

@@ -1,0 +1,36 @@
+C:\Users\Ojvar.AEPP-PC\Desktop\nfcsharp-111228\trunk\NFCSharp\bin\Debug\NFCSharp.dll
+C:\Users\Ojvar.AEPP-PC\Desktop\nfcsharp-111228\trunk\NFCSharp\bin\Debug\NFCSharp.pdb
+C:\Users\Ojvar.AEPP-PC\Desktop\nfcsharp-111228\trunk\NFCSharp\bin\Debug\NdefLibrary.dll
+C:\Users\Ojvar.AEPP-PC\Desktop\nfcsharp-111228\trunk\NFCSharp\obj\Debug\NFCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ojvar.AEPP-PC\Desktop\nfcsharp-111228\trunk\NFCSharp\obj\Debug\NFCSharp.dll
+C:\Users\Ojvar.AEPP-PC\Desktop\nfcsharp-111228\trunk\NFCSharp\obj\Debug\NFCSharp.pdb
+E:\Binolmellal\trunk\NFCSharp\obj\Debug\NFCSharp.csprojResolveAssemblyReference.cache
+E:\Binolmellal\trunk\NFCSharp\obj\Debug\NFCSharp.dll
+E:\Binolmellal\trunk\NFCSharp\obj\Debug\NFCSharp.pdb
+E:\Binolmellal\trunk\NFCSharp\bin\Debug\NFCSharp.dll
+E:\Binolmellal\trunk\NFCSharp\bin\Debug\NFCSharp.pdb
+E:\Binolmellal\trunk\NFCSharp\bin\Debug\NdefLibrary.dll
+D:\Software\Suit\NFCSharp\bin\Debug\NFCSharp.dll
+D:\Software\Suit\NFCSharp\bin\Debug\NFCSharp.pdb
+D:\Software\Suit\NFCSharp\bin\Debug\NdefLibrary.dll
+D:\Software\Suit\NFCSharp\obj\Debug\NFCSharp.csprojResolveAssemblyReference.cache
+D:\Software\Suit\NFCSharp\obj\Debug\NFCSharp.dll
+D:\Software\Suit\NFCSharp\obj\Debug\NFCSharp.pdb
+D:\Software\Project\Project\Binolmellal\VersionFinal\CardActive\NFCSharp_Active\NFCSharp\bin\Debug\NFCSharp.dll
+D:\Software\Project\Project\Binolmellal\VersionFinal\CardActive\NFCSharp_Active\NFCSharp\bin\Debug\NFCSharp.pdb
+D:\Software\Project\Project\Binolmellal\VersionFinal\CardActive\NFCSharp_Active\NFCSharp\bin\Debug\NdefLibrary.dll
+D:\Software\Project\Project\Binolmellal\VersionFinal\CardActive\NFCSharp_Active\NFCSharp\obj\Debug\NFCSharp.csprojResolveAssemblyReference.cache
+D:\Software\Project\Project\Binolmellal\VersionFinal\CardActive\NFCSharp_Active\NFCSharp\obj\Debug\NFCSharp.dll
+D:\Software\Project\Project\Binolmellal\VersionFinal\CardActive\NFCSharp_Active\NFCSharp\obj\Debug\NFCSharp.pdb
+E:\Projects\Project Binolmellal\FoodCard\2 - SQLCommand\CardActive\NFCSharp_Active\NFCSharp\bin\Debug\NFCSharp.dll
+E:\Projects\Project Binolmellal\FoodCard\2 - SQLCommand\CardActive\NFCSharp_Active\NFCSharp\bin\Debug\NFCSharp.pdb
+E:\Projects\Project Binolmellal\FoodCard\2 - SQLCommand\CardActive\NFCSharp_Active\NFCSharp\bin\Debug\NdefLibrary.dll
+E:\Projects\Project Binolmellal\FoodCard\2 - SQLCommand\CardActive\NFCSharp_Active\NFCSharp\obj\Debug\NFCSharp.csprojResolveAssemblyReference.cache
+E:\Projects\Project Binolmellal\FoodCard\2 - SQLCommand\CardActive\NFCSharp_Active\NFCSharp\obj\Debug\NFCSharp.dll
+E:\Projects\Project Binolmellal\FoodCard\2 - SQLCommand\CardActive\NFCSharp_Active\NFCSharp\obj\Debug\NFCSharp.pdb
+D:\WindowsApplication\CardReader Program\NFCSharp_Active\NFCSharp\bin\Debug\NFCSharp.dll
+D:\WindowsApplication\CardReader Program\NFCSharp_Active\NFCSharp\bin\Debug\NFCSharp.pdb
+D:\WindowsApplication\CardReader Program\NFCSharp_Active\NFCSharp\bin\Debug\NdefLibrary.dll
+D:\WindowsApplication\CardReader Program\NFCSharp_Active\NFCSharp\obj\Debug\NFCSharp.csprojResolveAssemblyReference.cache
+D:\WindowsApplication\CardReader Program\NFCSharp_Active\NFCSharp\obj\Debug\NFCSharp.dll
+D:\WindowsApplication\CardReader Program\NFCSharp_Active\NFCSharp\obj\Debug\NFCSharp.pdb

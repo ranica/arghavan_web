@@ -1,0 +1,256 @@
+[33mcommit 206e3aa2e04978cb3053a0f2706c46e7da06ecba[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Wed May 8 07:28:18 2019 +0430
+
+    complate code in tab-user in people
+
+[33mcommit 7371d2ab37e515c5dcaa3d4ed3e0935f455f6e2a[m
+Merge: 7368006 6a88f0b
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Tue May 7 16:31:45 2019 +0430
+
+     modified national id and mobile input
+
+[33mcommit 7368006f213b31628ba6f1727fac8e164680b9ca[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Tue May 7 10:02:37 2019 +0430
+
+    modified uml
+
+[33mcommit 6a88f0b033417f4b845a252f66f54194f6328b3e[m
+Merge: d91a6c0 d51c164
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Tue May 7 09:00:33 2019 +0430
+
+    Merge branch 'master' of https://github.com/ranica/arghavan
+    Modified Dashobard
+    Add device_type_id in gateDevice table
+    Add DeviceTypeSeeder
+
+[33mcommit d91a6c05e6ca39ac9e8473dc12e1855a09118268[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Mon May 6 17:01:29 2019 +0430
+
+    Modified SimpleCounter.vue
+    Modified Modile input
+
+[33mcommit d51c164956c107bf4d6a22ddc570d02cf7758b0b[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Mon May 6 16:40:53 2019 +0430
+
+    modified UML - Main
+
+[33mcommit 1671cf98d2e6e4b7cf1a6bf6803ec3ef03907abf[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sun May 5 16:51:17 2019 +0430
+
+     modified UML Main
+
+[33mcommit 1ae78f8fcd2360740e35e770e280e00923e4a4c7[m
+Merge: 3ee8bcb 18162c9
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sun May 5 09:42:31 2019 +0430
+
+    Merge branch 'master' of https://github.com/ranica/arghavan
+
+[33mcommit 3ee8bcbe7e4c25df5d8adf0a421cb717daba47e1[m
+Merge: 7b7d066 1eb56d8
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sun May 5 09:41:51 2019 +0430
+
+     modified people controller
+
+[33mcommit 7b7d06634d0ce7a73391d7519425ddb256d83fe8[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sun May 5 09:37:27 2019 +0430
+
+    modified UML in win
+
+[33mcommit 18162c92d463be02c770db872210c56cc81613d3[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Sun May 5 08:41:37 2019 +0430
+
+    new uml
+
+[33mcommit 1eb56d8c2c106c3c543dd2245be36ba1fae5b7e4[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Sun May 5 08:36:46 2019 +0430
+
+    Modified UML
+
+[33mcommit 34a30f1727da8ee9c39992f56228c11dd35ef88f[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Sun Apr 28 20:13:36 2019 +0430
+
+    add contact type page
+
+[33mcommit bab56ef62ff8704a645f4e8136f2c606cc0b5f18[m
+Merge: 4fcb173 cac4a5f
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Sun Apr 28 19:02:43 2019 +0430
+
+    Merge
+    Merge branch 'master' of https://github.com/ranica/arghavan
+
+[33mcommit 4fcb17389ad596444e3f9729db2ac4891af7d8da[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Sun Apr 28 19:02:37 2019 +0430
+
+     add function for web service in passportController
+
+[33mcommit cac4a5fd7512abbd177f7c48a486aab86cc17fb0[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sun Apr 28 16:37:41 2019 +0430
+
+    add Contact Type page
+
+[33mcommit fe12b5febe498d9339a9f4ff7ea69cd8a1238ba8[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Sat Apr 27 23:21:54 2019 +0430
+
+    modified dormitory page
+
+[33mcommit 97caad14c13fe4574005d125944fad4c1437e325[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sat Apr 27 16:41:50 2019 +0430
+
+    add building information page and gate plan page
+
+[33mcommit 4643808d20467cbdd44ff298f0b9259ac46447ab[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Tue Apr 23 16:37:29 2019 +0430
+
+     Complate material_room page, create building information page
+
+[33mcommit a0c14f6e1548e160f0543e3df3ee39752389070e[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Mon Apr 22 16:39:57 2019 +0430
+
+    modified materials page and complate, add material_room page
+
+[33mcommit 89c8432c5b7686eee9ab58b8b3815c292acc62df[m
+Author: ranica <ranica.co@gmail.com>
+Date:   Mon Apr 22 09:20:49 2019 +0430
+
+    modified material page
+
+[33mcommit 3845229b8392a6e6b8ee8ad2b55024b8850c017f[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sat Apr 20 16:30:53 2019 +0430
+
+    add matreial page
+
+[33mcommit 3d94548b767b8164794bd69cc6776c923ccf33a0[m
+Author: ranica <ranica.co@gmail.com>
+Date:   Fri Apr 19 23:01:39 2019 +0430
+
+    Add Senario in Document Folder.
+    Add Material Type page
+
+[33mcommit c176e68bec2b1f38c8a95c7b1970ce8c63138b92[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Wed Apr 17 15:18:04 2019 +0430
+
+     add room page
+
+[33mcommit 3b72f6c8c280dfd3ddc68fa70150477ffc05a4a5[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Tue Apr 16 16:39:29 2019 +0430
+
+     create room page
+
+[33mcommit 0c3791f66b35ee381c0507e7bb3049408538d647[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Tue Apr 16 12:20:04 2019 +0430
+
+    modified building page
+
+[33mcommit f6c5ee1022df532d130e95e1df583841e08359a4[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Mon Apr 15 16:41:00 2019 +0430
+
+     Buiding_type page Complate
+
+[33mcommit e4756c3402c6ec0a1a33df49ce17f399e0b20772[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Sun Apr 14 20:03:34 2019 +0430
+
+    Building type page complete
+
+[33mcommit 0bfc126b43d62ca68f0f5e1008acdd52cca06be4[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sun Apr 14 16:35:51 2019 +0430
+
+     add table finger print, add block page
+
+[33mcommit c16a333230df74a559e357bc32cd54a768441d98[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Sat Apr 13 20:05:24 2019 +0430
+
+    modified report dashboard
+
+[33mcommit 287c75004867f10c40873a541aa4dacf94695c70[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sat Apr 13 16:45:18 2019 +0430
+
+    report dashbaord
+
+[33mcommit 00fcb940f91fba3f59b8a6ad6c7b642c0272d385[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Fri Apr 12 23:31:32 2019 +0430
+
+    add Store Procedure Load Present Report and load GateDevice active report in dashboard.
+
+[33mcommit 092636d9dca29a27ab90cb56c9dcd70bf2b8be20[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Thu Apr 11 16:49:32 2019 +0430
+
+    start Fingerprint.
+    start report in Dashboard
+
+[33mcommit 125ce2a8f88579467206320872db1e5df02fd2b2[m
+Merge: 53afe66 254ff88
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Mon Apr 8 09:24:01 2019 +0430
+
+    Merge branch 'master' of https://github.com/ranica/arghavan
+    merge
+
+[33mcommit 53afe666abb36572a467297c450c770850bfecf7[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Mon Apr 8 09:23:22 2019 +0430
+
+    add base-dormitoray pages in menu bar
+
+[33mcommit 254ff88ede171ca7d66fc8a4b62023fd4c333829[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sun Apr 7 16:31:45 2019 +0430
+
+    Add Excel format,
+    add pDF format not complate.
+    dashboard and set modal for present report.
+
+[33mcommit 09210e437ab8bfdc512c32d68f745f2ce4fb66db[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Sun Apr 7 10:31:01 2019 +0430
+
+    add excel report.
+
+[33mcommit 57b61c78593c61931f8359e22dbca3e5d9defd94[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Fri Apr 5 21:32:23 2019 +0430
+
+    add style dashboard
+    edit report in traffic report
+
+[33mcommit f56675bc547998338e1c3e939f93f4ad7430862e[m
+Author: Marjan <marjan@localhost.localdomain>
+Date:   Mon Mar 18 17:50:51 2019 +0330
+
+     Loading page
+
+[33mcommit f0fa87cfb16741384b38543f1a67bf115dc2a656[m
+Author: مرجان قبادی فرد <ma.ghobadifard@ikiu.net>
+Date:   Sun Mar 17 15:15:10 2019 +0330
+
+     first commit arghavan

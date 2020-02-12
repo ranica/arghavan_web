@@ -1,0 +1,42 @@
+/* Vue-Form-Wizard */
+@media only screen and (max-width: 550px) {
+	.wizard-progress-with-circle {
+	visibility: hidden;
+	}
+	}
+
+	.wizard-tab-content {
+	.wizard-tab-container {
+	animation: fadeInRight 0.3s;
+	}
+	}
+
+	.vue-form-wizard {
+	width: 100%;
+	}
+
+	.wizard-navigation {
+	direction: rtl;
+	}
+
+	.wizard-tab-content {
+	width: 100%;
+	padding: 1em;
+	}
+
+	.vue-form-wizard .wizard-card-footer {
+	direction: rtl !important;
+	text-align: center !important;
+	}
+
+	.wizard-progress-bar{
+		float:right !important;
+	}
+
+	.vue-form-wizard .wizard-card-footer .wizard-footer-left{
+		float:right !important;
+	}
+
+	.vue-form-wizard .wizard-card-footer .wizard-footer-right{
+		float:left !important;
+	}

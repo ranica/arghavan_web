@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Test" Class="dbIKIUDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=Test;Integrated Security=True" SettingsObjectName="Common.Properties.Settings" SettingsPropertyName="TestConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.gitdevice" Member="gitdevices">
+    <Type Name="gitdevice">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ipmain" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ipforegin" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="namedevice" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="active" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="zoon" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="direction" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="gen" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="netStatus" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="timpssage" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="timserver" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="gitdevice_gitpermit" Member="gitpermits" ThisKey="id" OtherKey="deviceId" Type="gitpermit" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[HC.direction]" Member="HC_directions">
+    <Type Name="HC_direction">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="code" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.gitlog" Member="gitlogs">
+    <Type Name="gitlog">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stu_id" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="nam" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="pic" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="direction" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tim" Type="System.DateTime" DbType="SmallDateTime NOT NULL" CanBeNull="false" />
+      <Column Name="dat" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="deviceId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="typepass" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="commentId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="gitmessage_gitlog" Member="gitmessage" ThisKey="commentId" OtherKey="Id" Type="gitmessage" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.gitlogOperator" Member="gitlogOperators">
+    <Type Name="gitlogOperator">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ip" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="us" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="tim" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="dat" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="msgopId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="descript" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+      <Association Name="gitmsgOperator_gitlogOperator" Member="gitmsgOperator" ThisKey="msgopId" OtherKey="id" Type="gitmsgOperator" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.gitmessage" Member="gitmessages">
+    <Type Name="gitmessage">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="message" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="gitmessage_gitlog" Member="gitlogs" ThisKey="Id" OtherKey="commentId" Type="gitlog" />
+    </Type>
+  </Table>
+  <Table Name="dbo.gitmsgOperator" Member="gitmsgOperators">
+    <Type Name="gitmsgOperator">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="messageUser" Type="System.String" DbType="NVarChar(1000) NOT NULL" CanBeNull="false" />
+      <Association Name="gitmsgOperator_gitlogOperator" Member="gitlogOperators" ThisKey="id" OtherKey="msgopId" Type="gitlogOperator" />
+    </Type>
+  </Table>
+  <Table Name="dbo.gitoperator" Member="gitoperators">
+    <Type Name="gitoperator">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nam" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="fam" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="us" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="pass" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="timshowpic" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="recordcount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="datcreate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="gitoperator_gitpermit" Member="gitpermits" ThisKey="id" OtherKey="operatorId" Type="gitpermit" />
+    </Type>
+  </Table>
+  <Table Name="dbo.gitoption" Member="gitoptions">
+    <Type Name="gitoption">
+      <Column Name="datstartsuit" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="pdatstartsuit" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datendsuit" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="pdatendsuit" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="genzoonw" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="genzoonm" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="emergency" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="port" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.gitpermit" Member="gitpermits">
+    <Type Name="gitpermit">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="deviceId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="operatorId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="gitdevice_gitpermit" Member="gitdevice" ThisKey="deviceId" OtherKey="id" Type="gitdevice" IsForeignKey="true" />
+      <Association Name="gitoperator_gitpermit" Member="gitoperator" ThisKey="operatorId" OtherKey="id" Type="gitoperator" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.gituser" Member="gitusers">
+    <Type Name="gituser">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stu_id" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cdn" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="nam" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="fam" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="gen" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="suitmem" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="suitname" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="pic" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="startdat" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="pstartdat" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="enddat" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="penddat" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="active" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="typepass" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="type" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="comment" Type="System.String" DbType="NVarChar(1000)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbreqguest" Member="tbreqguests">
+    <Type Name="tbreqguest">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="stu_id" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="nam" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="fam" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="kind" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="stuguest" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="namguest" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="cdnguest" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="nesbat" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="dats" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="pdats" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datf" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="pdatf" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="cday" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="nesbatdet" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="status" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dat" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="pdat" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="suitx" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="modirnam" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="commodir" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

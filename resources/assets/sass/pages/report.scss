@@ -1,0 +1,32 @@
+.card img.picture-src.larger{
+        // min-width: 200px;
+        // min-height: 200px;
+        width: 75%;
+        height: 75%;
+        background: gray;
+        border-radius: 50%;
+}
+
+.fa-arrow-circle-up.icon-background,
+.fa-check-circle.icon-background{
+	color: green;
+}
+
+.fa-ban.icon-background,
+.fa-arrow-circle-down.icon-background{
+	color: #ec407a;
+}
+
+
+.card-profile .card-avatar{
+	max-width: 150px !important;
+    max-height: 150px !important;
+}
+.btn.btn-primary.btn-round.design{
+    padding-top : 10px !important;
+}
+.btn.btn-rose.btn-round.design,
+.btn.btn-success.btn-round.design{
+    padding-top : 4px !important;
+}
+

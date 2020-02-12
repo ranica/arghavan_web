@@ -1,0 +1,44 @@
+E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.pdb
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.exe
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.pdb
+E:\Binolmellal\TcpProject\GateService\bin\Debug\Common.dll
+E:\Binolmellal\TcpProject\GateService\bin\Debug\Common.pdb
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe.config
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\GateService.exe.config
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\GateService.exe
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\GateService.pdb
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\Common.dll
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\Common.pdb
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.exe
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.exe.config
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.exe
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\Common.dll
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\Common.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.exe
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.pdb
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.exe.config
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.exe
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.pdb
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\Common.dll
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\Common.pdb
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.exe
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.pdb

@@ -1,0 +1,4 @@
+E:\Binolmellal\TcpProject\TestService\bin\Debug\TestService.exe
+E:\Binolmellal\TcpProject\TestService\bin\Debug\TestService.pdb
+E:\Binolmellal\TcpProject\TestService\obj\Debug\TestService.exe
+E:\Binolmellal\TcpProject\TestService\obj\Debug\TestService.pdb

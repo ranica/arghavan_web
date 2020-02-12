@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<province xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<data>
+		<state>اردبيل</state>
+	</data>
+	<data>
+		<state>اصفهان</state>
+	</data>
+	<data>
+		<state>البرز</state>
+	</data>
+	<data>
+		<state>ايلام</state>
+	</data>
+	<data>
+		<state>آذربايجان شرقي</state>
+	</data>
+	<data>
+		<state>آذربايجان غربي</state>
+	</data>
+	<data>
+		<state>بوشهر</state>
+	</data>
+	<data>
+		<state>تهران</state>
+	</data>
+	<data>
+		<state>چهارمحال وبختياري</state>
+	</data>
+	<data>
+		<state>خراسان جنوبي</state>
+	</data>
+	<data>
+		<state>خراسان رضوي</state>
+	</data>
+	<data>
+		<state>خراسان شمالي</state>
+	</data>
+	<data>
+		<state>خوزستان</state>
+	</data>
+	<data>
+		<state>زنجان</state>
+	</data>
+	<data>
+		<state>سمنان</state>
+	</data>
+	<data>
+		<state>سيستان وبلوچستان</state>
+	</data>
+	<data>
+		<state>فارس</state>
+	</data>
+	<data>
+		<state>قزوين</state>
+	</data>
+	<data>
+		<state>قم</state>
+	</data>
+	<data>
+		<state>كردستان</state>
+	</data>
+	<data>
+		<state>كرمان</state>
+	</data>
+	<data>
+		<state>كرمانشاه</state>
+	</data>
+	<data>
+		<state>كهگيلويه وبويراحمد</state>
+	</data>
+	<data>
+		<state>گلستان</state>
+	</data>
+	<data>
+		<state>گيلان</state>
+	</data>
+	<data>
+		<state>لرستان</state>
+	</data>
+	<data>
+		<state>مازندران</state>
+	</data>
+	<data>
+		<state>مركزي</state>
+	</data>
+	<data>
+		<state>هرمزگان</state>
+	</data>
+	<data>
+		<state>همدان</state>
+	</data>
+	<data>
+		<state>يزد</state>
+	</data>
+</province>

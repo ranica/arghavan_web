@@ -1,0 +1,30 @@
+.card-stats .card-header{
+	float: right !important;
+}
+.card-stats .card-content{
+	text-align: center;
+}
+.card .card-footer{
+	border-top: 1px solid #eeeeee;
+}
+// a{
+//     color: #26c6da;
+// }
+ct-series-a .ct-point, .ct-series-a .ct-line, .ct-series-a .ct-bar, .ct-series-a .ct-slice-donut {
+    stroke: #F35288  !important;
+}
+ct-series-b .ct-point, .ct-series-b .ct-line, .ct-series-b .ct-bar, .ct-series-b .ct-slice-donut{
+	stroke: #641D35 !important;
+}
+.ct-bar {
+    fill: none;
+    stroke-width: 25px !important;
+}
+.ct-label {
+   color: white;
+  font-size:15px !important;
+  }
+  .fa-unlock-alt.icon-background-input{
+    color: #e91e63;
+  }
+

@@ -1,0 +1,68 @@
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.csprojResolveAssemblyReference.cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.csproj.GenerateResource.Cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\MySQLGateService.exe.config
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\MySQLGateService.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\MySQLGateService.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\BaseDAL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\Common.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\MySql.Data.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\BaseBLL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\Common.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.ProjectInstaller.resources
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.pdb
+F:\Marjan\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.exe.config
+F:\Marjan\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.exe
+F:\Marjan\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.pdb
+F:\Marjan\TCPProject\MySQLGateService\bin\Debug\BaseDAL.dll
+F:\Marjan\TCPProject\MySQLGateService\bin\Debug\Common.dll
+F:\Marjan\TCPProject\MySQLGateService\bin\Debug\MySql.Data.dll
+F:\Marjan\TCPProject\MySQLGateService\bin\Debug\BaseBLL.dll
+F:\Marjan\TCPProject\MySQLGateService\bin\Debug\Common.pdb
+F:\Marjan\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.csprojResolveAssemblyReference.cache
+F:\Marjan\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.ProjectInstaller.resources
+F:\Marjan\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.csproj.GenerateResource.Cache
+F:\Marjan\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.exe
+F:\Marjan\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.pdb
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.csprojResolveAssemblyReference.cache
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.ProjectInstaller.resources
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.csproj.GenerateResource.Cache
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.exe
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.pdb
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.exe.config
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.exe
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.pdb
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\BaseDAL.dll
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\Common.dll
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\MySql.Data.dll
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\BaseBLL.dll
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\Common.pdb
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\Common.dll.config
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.exe.config
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.exe
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.pdb
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\BaseDAL.dll
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\Common.dll
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\MySql.Data.dll
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\BaseBLL.dll
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\Common.pdb
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\bin\Debug\Common.dll.config
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.csprojResolveAssemblyReference.cache
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.ProjectInstaller.resources
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.csproj.GenerateResource.Cache
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.exe
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.pdb
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.csprojResolveAssemblyReference.cache
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.ProjectInstaller.resources
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.csproj.GenerateResource.Cache
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.exe.config
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.exe
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\bin\Debug\MySQLGateService.pdb
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\bin\Debug\BaseDAL.dll
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\bin\Debug\Common.dll
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\bin\Debug\MySql.Data.dll
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\bin\Debug\BaseBLL.dll
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\bin\Debug\Common.pdb
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\bin\Debug\Common.dll.config
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.exe
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\MySQLGateService\obj\Debug\MySQLGateService.pdb

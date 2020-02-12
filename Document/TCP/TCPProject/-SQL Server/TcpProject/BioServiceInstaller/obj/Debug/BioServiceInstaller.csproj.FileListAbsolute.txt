@@ -1,0 +1,68 @@
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csprojResolveAssemblyReference.cache
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Forms.ServiceControllerForm.resources
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Properties.Resources.resources
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csproj.GenerateResource.Cache
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe.config
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.pdb
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.exe
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.pdb
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\bin\Debug\Common.dll
+D:\Software\Project\Binolmellal\Version Final\TcpProject\BioServiceInstaller\bin\Debug\Common.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe.config
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.exe
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\Common.dll
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\Common.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csprojResolveAssemblyReference.cache
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Forms.ServiceControllerForm.resources
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Properties.Resources.resources
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csproj.GenerateResource.Cache
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe.config
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.exe
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.pdb
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.pdb
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\Common.dll
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\Common.pdb
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csprojResolveAssemblyReference.cache
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Forms.ServiceControllerForm.resources
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Properties.Resources.resources
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csproj.GenerateResource.Cache
+D:\Software\Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe.config
+D:\Software\Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.exe
+D:\Software\Project\Project\Binolmellal\VersionFinal\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.pdb
+G:\INFO UnBio\Software\Project\Binolmellal\Version Final\Sample Project\Final\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe.config
+G:\INFO UnBio\Software\Project\Binolmellal\Version Final\Sample Project\Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.exe
+G:\INFO UnBio\Software\Project\Binolmellal\Version Final\Sample Project\Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.pdb
+E:\INFO UnBio\Software\Project\Binolmellal\Version Final\Sample Project\Final\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe.config
+E:\INFO UnBio\Software\Project\Binolmellal\Version Final\Sample Project\Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.exe
+E:\INFO UnBio\Software\Project\Binolmellal\Version Final\Sample Project\Final\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.pdb
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe.config
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.pdb
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\bin\Debug\Common.dll
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\bin\Debug\MySql.Data.dll
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\bin\Debug\Common.pdb
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csprojResolveAssemblyReference.cache
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Forms.ServiceControllerForm.resources
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Properties.Resources.resources
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csproj.GenerateResource.Cache
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.exe
+D:\Utility\TCP Project\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe.config
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\bin\Debug\BioServiceInstaller.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\bin\Debug\Common.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\bin\Debug\MySql.Data.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\bin\Debug\BaseDAL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\bin\Debug\BaseBLL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\bin\Debug\Common.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csprojResolveAssemblyReference.cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Forms.ServiceControllerForm.resources
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.Properties.Resources.resources
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.csproj.GenerateResource.Cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\BioServiceInstaller\obj\Debug\BioServiceInstaller.pdb

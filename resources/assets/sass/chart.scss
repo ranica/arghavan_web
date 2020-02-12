@@ -1,0 +1,14 @@
+@import "node_modules/chartist/dist/scss/chartist.scss";
+// @import url(https://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+
+.chart {
+  position: relative;
+  display: inline-block;
+  margin: 20px 10px;
+  color: #999;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+}

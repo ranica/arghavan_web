@@ -1,0 +1,13 @@
+E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.pdb
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.exe
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.pdb
+E:\Binolmellal\TcpProject\GateService\bin\Debug\Common.dll
+E:\Binolmellal\TcpProject\GateService\bin\Debug\Common.pdb
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe.config
+E:\Binolmellal\TcpProject\Backup\95-09-21\GateService\bin\Debug\GateService.exe.config
+E:\Binolmellal\TcpProject\Backup\95-09-21\GateService\obj\Debug\GateService.exe
+E:\Binolmellal\TcpProject\Backup\95-09-21\GateService\obj\Debug\GateService.pdb

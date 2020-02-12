@@ -1,0 +1,44 @@
+E:\Binolmellal\trunk\DUALI\obj\Debug\DUALI.csprojResolveAssemblyReference.cache
+E:\Binolmellal\trunk\DUALI\obj\Debug\DUALI.MainForm.resources
+E:\Binolmellal\trunk\DUALI\obj\Debug\DUALI.Properties.Resources.resources
+E:\Binolmellal\trunk\DUALI\obj\Debug\DUALI.csproj.GenerateResource.Cache
+E:\Binolmellal\trunk\DUALI\bin\Debug\DUALI.exe.config
+E:\Binolmellal\trunk\DUALI\bin\Debug\DUALI.exe
+E:\Binolmellal\trunk\DUALI\bin\Debug\DUALI.pdb
+E:\Binolmellal\trunk\DUALI\bin\Debug\NFCSharp.dll
+E:\Binolmellal\trunk\DUALI\bin\Debug\NdefLibrary.dll
+E:\Binolmellal\trunk\DUALI\bin\Debug\NFCSharp.pdb
+E:\Binolmellal\trunk\DUALI\obj\Debug\DUALI.exe
+E:\Binolmellal\trunk\DUALI\obj\Debug\DUALI.pdb
+D:\Software\Suit\DUALI\bin\Debug\DUALI.exe.config
+D:\Software\Suit\DUALI\bin\Debug\DUALI.exe
+D:\Software\Suit\DUALI\bin\Debug\DUALI.pdb
+D:\Software\Suit\DUALI\bin\Debug\NFCSharp.dll
+D:\Software\Suit\DUALI\bin\Debug\NdefLibrary.dll
+D:\Software\Suit\DUALI\bin\Debug\NFCSharp.pdb
+D:\Software\Suit\DUALI\obj\Debug\DUALI.csprojResolveAssemblyReference.cache
+D:\Software\Suit\DUALI\obj\Debug\DUALI.MainForm.resources
+D:\Software\Suit\DUALI\obj\Debug\DUALI.Properties.Resources.resources
+D:\Software\Suit\DUALI\obj\Debug\DUALI.csproj.GenerateResource.Cache
+D:\Software\Suit\DUALI\obj\Debug\DUALI.exe
+D:\Software\Suit\DUALI\obj\Debug\DUALI.pdb
+D:\Software\Suit\DUALI\bin\Debug\Common.dll
+D:\Software\Suit\DUALI\bin\Debug\Common.pdb
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\bin\Debug\DUALI.exe.config
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\obj\Debug\DUALI.exe
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\obj\Debug\DUALI.pdb
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\bin\Debug\DUALI.exe
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\bin\Debug\DUALI.pdb
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\bin\Debug\Common.dll
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\bin\Debug\NFCSharp.dll
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\bin\Debug\NdefLibrary.dll
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\bin\Debug\Common.pdb
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\bin\Debug\NFCSharp.pdb
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\obj\Debug\DUALI.csprojResolveAssemblyReference.cache
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\obj\Debug\DUALI.MainForm.resources
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\obj\Debug\DUALI.Properties.Resources.resources
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\obj\Debug\DUALI.csproj.GenerateResource.Cache
+D:\Software\Project\Binolmellal\Version Final\Suit\DUALI\obj\Debug\DUALI.LoginForm.resources
+D:\Software\Project\Binolmellal\Version Final\CardActive\Suit\DUALI\bin\Debug\DUALI.exe.config
+D:\Software\Project\Binolmellal\Version Final\CardActive\Suit\DUALI\obj\Debug\DUALI.exe
+D:\Software\Project\Binolmellal\Version Final\CardActive\Suit\DUALI\obj\Debug\DUALI.pdb

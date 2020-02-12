@@ -1,0 +1,125 @@
+E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.pdb
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.exe
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.pdb
+E:\Binolmellal\TcpProject\GateService\bin\Debug\Common.dll
+E:\Binolmellal\TcpProject\GateService\bin\Debug\Common.pdb
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe.config
+E:\Binolmellal\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\GateService.exe.config
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\GateService.exe
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\GateService.pdb
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\Common.dll
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\bin\Debug\Common.pdb
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.exe
+D:\Software\Project\Binolmellal\Version Final\TcpProject\GateService\obj\Debug\GateService.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.exe.config
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.exe
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\Common.dll
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\Common.pdb
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.exe
+D:\Software\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.pdb
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.exe.config
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.exe
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\GateService.pdb
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\Common.dll
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\bin\Debug\Common.pdb
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.exe
+E:\Binolmellal\Backup Project\Project\Binolmellal\VersionFinal\TcpProject\GateService\obj\Debug\GateService.pdb
+D:\Utility\TCP Project\TcpProject\GateService\bin\Debug\GateService.exe.config
+D:\Utility\TCP Project\TcpProject\GateService\bin\Debug\GateService.exe
+D:\Utility\TCP Project\TcpProject\GateService\bin\Debug\GateService.pdb
+D:\Utility\TCP Project\TcpProject\GateService\bin\Debug\Common.dll
+D:\Utility\TCP Project\TcpProject\GateService\bin\Debug\MySql.Data.dll
+D:\Utility\TCP Project\TcpProject\GateService\bin\Debug\Common.pdb
+D:\Utility\TCP Project\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+D:\Utility\TCP Project\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+D:\Utility\TCP Project\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+D:\Utility\TCP Project\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+D:\Utility\TCP Project\TcpProject\GateService\obj\Debug\GateService.exe
+D:\Utility\TCP Project\TcpProject\GateService\obj\Debug\GateService.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\bin\Debug\GateService.exe.config
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\bin\Debug\GateService.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\bin\Debug\GateService.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\bin\Debug\BaseDAL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\bin\Debug\Common.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\bin\Debug\MySql.Data.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\bin\Debug\BaseBLL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\bin\Debug\Common.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\obj\Debug\GateService.GateService.resources
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\obj\Debug\GateService.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\GateService\obj\Debug\GateService.pdb
+F:\Marjan\TCPProject\GateService\bin\Debug\GateService.exe.config
+F:\Marjan\TCPProject\GateService\bin\Debug\GateService.exe
+F:\Marjan\TCPProject\GateService\bin\Debug\GateService.pdb
+F:\Marjan\TCPProject\GateService\bin\Debug\BaseDAL.dll
+F:\Marjan\TCPProject\GateService\bin\Debug\Common.dll
+F:\Marjan\TCPProject\GateService\bin\Debug\MySql.Data.dll
+F:\Marjan\TCPProject\GateService\bin\Debug\Common.pdb
+F:\Marjan\TCPProject\GateService\obj\Debug\GateService.GateService.resources
+F:\Marjan\TCPProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+F:\Marjan\TCPProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+F:\Marjan\TCPProject\GateService\obj\Debug\GateService.exe
+F:\Marjan\TCPProject\GateService\obj\Debug\GateService.pdb
+F:\Marjan\TCPProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\bin\Debug\GateService.exe.config
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\bin\Debug\GateService.exe
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\bin\Debug\GateService.pdb
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\bin\Debug\BaseDAL.dll
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\bin\Debug\Common.dll
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\bin\Debug\MySql.Data.dll
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\bin\Debug\Common.pdb
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\bin\Debug\Common.dll.config
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.GateService.resources
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.exe
+F:\2.Utility\- Projects\- Ahvaz -\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.pdb
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\bin\Debug\GateService.exe.config
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\bin\Debug\GateService.exe
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\bin\Debug\GateService.pdb
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\bin\Debug\BaseDAL.dll
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\bin\Debug\Common.dll
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\bin\Debug\MySql.Data.dll
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\bin\Debug\Common.pdb
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\bin\Debug\Common.dll.config
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.GateService.resources
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.exe
+D:\WindowsApplication\XGateSoft\TCP-Rasam\Version 6 - TCP\TCPProject\GateService\obj\Debug\GateService.pdb
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\obj\Debug\GateService.csprojResolveAssemblyReference.cache
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\obj\Debug\GateService.GateService.resources
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\obj\Debug\GateService.ProjectInstaller.resources
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\obj\Debug\GateService.csproj.GenerateResource.Cache
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\bin\Debug\GateService.exe.config
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\bin\Debug\GateService.exe
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\bin\Debug\GateService.pdb
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\bin\Debug\BaseDAL.dll
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\bin\Debug\Common.dll
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\bin\Debug\MySql.Data.dll
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\bin\Debug\Common.pdb
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\bin\Debug\Common.dll.config
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\obj\Debug\GateService.exe
+E:\2.Utility\- Projects\- Ahvaz -\Version 15 - 970712\iauahvazSoft\TCP\TCPProject\GateService\obj\Debug\GateService.pdb

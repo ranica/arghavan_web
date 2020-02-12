@@ -1,0 +1,64 @@
+﻿Installing assembly 'E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.InstallLog
+   assemblypath = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+Installing service GateService...
+Service GateService has been successfully installed.
+Creating EventLog source GateService in log Application...
+Committing assembly 'E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.InstallLog
+   assemblypath = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+Uninstalling assembly 'E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.InstallLog
+   assemblypath = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+Removing EventLog source GateService.
+Service GateService is being removed from the system...
+Service GateService was successfully removed from the system.
+Installing assembly 'E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.InstallLog
+   assemblypath = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+Installing service GateService...
+Service GateService has been successfully installed.
+Creating EventLog source GateService in log Application...
+Committing assembly 'E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.InstallLog
+   assemblypath = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+Uninstalling assembly 'E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.InstallLog
+   assemblypath = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+Removing EventLog source GateService.
+Service GateService is being removed from the system...
+Service GateService was successfully removed from the system.
+Installing assembly 'E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.InstallLog
+   assemblypath = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+Installing service GateService...
+Service GateService has been successfully installed.
+Creating EventLog source GateService in log Application...
+Committing assembly 'E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.InstallLog
+   assemblypath = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+Uninstalling assembly 'E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.InstallLog
+   assemblypath = E:\Binolmellal\TcpProject\GateService\bin\Debug\GateService.exe
+Removing EventLog source GateService.
+Service GateService is being removed from the system...
+Service GateService was successfully removed from the system.
+Attempt to stop service GateService.

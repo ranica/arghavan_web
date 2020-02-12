@@ -1,0 +1,13 @@
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.csprojResolveAssemblyReference.cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.csproj.GenerateResource.Cache
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\MySQLGateService.exe.config
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\MySQLGateService.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\MySQLGateService.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\BaseDAL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\Common.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\MySql.Data.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\BaseBLL.dll
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\bin\Debug\Common.pdb
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.ProjectInstaller.resources
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.exe
+F:\Marjan\TCPProject\SQL Server\TcpProject\MySQLGateService\obj\Debug\MySQLGateService.pdb

@@ -1,0 +1,241 @@
+$loadColor : #9c27b0;
+$bgColor : #00bcd4;
+
+/**
+ * Visibility
+ */
+.hidden {
+	visibility: hidden;
+}
+.visible {
+	visibility: visible;
+}
+.invisible {
+	visibility: collapse;
+}
+
+/**
+ * Card
+ */
+.card-title{
+	font-family: BYekan;
+}
+
+/**
+ * Margin
+ */
+.mrg-all-1em {
+	margin: 1em;
+}
+
+.mrg-top-1em {
+	margin-top: 1em;
+}
+
+.mrg-right-1em {
+	margin-right: 1em;
+}
+
+.mrg-bottom-1em {
+	margin-bottom: 1em;
+}
+
+.mrg-left-1em {
+	margin-left: 1em;
+}
+
+
+.mrg-all-2em {
+	margin: 2em;
+}
+
+.mrg-top-2em {
+	margin-top: 2em;
+}
+
+.mrg-right-2em {
+	margin-right: 2em;
+}
+
+.mrg-bottom-2em {
+	margin-bottom: 2em;
+}
+
+.mrg-left-2em {
+	margin-left: 2em;
+}
+
+.mrg-rem-all {
+	margin: none;
+}
+
+.mrg-rem-top {
+	margin-top: none;
+}
+
+.mrg-rem-right {
+	margin-right: none;
+}
+
+.mrg-rem-bottom {
+	margin-bottom: none;
+}
+
+.mrg-rem-left {
+	margin-left: none;
+}
+
+
+
+/**
+ * Padding
+ */
+.pad-all-1em {
+	padding: 1em;
+}
+
+.pad-top-1em {
+	padding-top: 1em;
+}
+
+.pad-right-1em {
+	padding-right: 1em;
+}
+
+.pad-bottom-1em {
+	padding-bottom: 1em;
+}
+
+.pad-left-1em {
+	padding-left: 1em;
+}
+
+
+.pad-all-2em {
+	padding: 2em;
+}
+
+.pad-top-2em {
+	padding-top: 2em;
+}
+
+.pad-right-2em {
+	padding-right: 2em;
+}
+
+.pad-bottom-2em {
+	padding-bottom: 2em;
+}
+
+.pad-left-2em {
+	padding-left: 2em;
+}
+
+.pad-rem-all {
+	padding: none;
+}
+
+.pad-rem-top {
+	padding-top: none;
+}
+
+.pad-rem-right {
+	padding-right: none;
+}
+
+.pad-rem-bottom {
+	padding-bottom: none;
+}
+
+.pad-rem-left {
+	padding-left: none;
+}
+
+
+/**
+ * Borders
+ */
+.round-border-1 {
+	border-radius        : 30px 5px 30px 5px;
+	-moz-border-radius   : 30px 5px 30px 5px;
+	-webkit-border-radius: 30px 5px 30px 5px;
+	border               : 1px solid #56a4e3;
+}
+
+
+/**
+ * Table td -> "OperationBox"
+ */
+.table thead tr td{
+	font-weight: bold;
+}
+
+.operationBox {
+	width: 100px;
+	cursor: pointer;
+}
+
+.operationBox a {
+	color: #C1C1C1;
+}
+
+.operationBox:hover a {
+	color: #05587A;
+}
+
+/**
+ * Loading
+ */
+.body-loading{
+	background: #f6f8f9; /* Old browsers */
+	background: -moz-linear-gradient(top, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #f6f8f9 0%,#e5ebee 50%,#d7dee3 51%,#f5f7f9 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #f6f8f9 0%,#e5ebee 50%,#d7dee3 51%,#f5f7f9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6f8f9', endColorstr='#f5f7f9',GradientType=0 ); /* IE6-9 */
+
+	margin: 5px;
+	border-radius: 5px;
+    position:absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    z-index:1000;
+
+    color: $loadColor;
+}
+
+.body-loading svg {
+	color: $loadColor;
+	width: 16px !important;
+   	height: 16px !important;
+	margin: 10px;
+  	display:inline-block;
+}
+
+.p-datetime-picker-input-group{
+	border: none !important;
+}
+
+.p-datetime-picker-icon-btn{
+	background: transparent !important;
+	padding: 3px;
+}
+
+.p-datetime-picker-icon-btn svg{
+	fill: gray;
+}
+
+.cls-1 {
+	fill:none;
+	stroke-linecap:bevel;
+	stroke-linejoin:round;
+}
+
+.cls-1 {
+	stroke-width:1px;
+}
+.cls-2 {
+	color: $loadColor;
+	stroke-width:4px;
+}

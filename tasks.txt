@@ -1,0 +1,84 @@
+Tasks Come here
+----------------
+# Start Project: 1396/07/12
+
+Lasted Tasks:
+Ojvar:
+	PJax,
+	[DONE] ComboBox template.
+	Report maker for the app.
+	Complate button setting profile.
+			Profile link 	-> open user profile page
+			setting 		-> open chagne password page
+
+	Gadget
+	 ماژولار نویسی : ارسال SMS
+	 نمایش پیام ثبت شده برای دانشجو در زمان عبور از گیت
+
+	Import data:
+		1- Import data from excel file
+
+	Ghobadi:
+		[DONE] insert error message other indexes. [OK]
+		[DONE] data-vv-name for every element.[OK]
+		 v-validate for evey element.
+		[DONE] Checkbox toggle button is checked. [OK]
+		[DONE] commoboBox default select first item.[OK]
+		[DONE] create scss:
+			gate-device.scss
+			webpack :  .sass('resources/assets/sass/pages/gate-device.scss', 'public/css/pages')
+
+#1397/01/29
+Ghobadi:
+	[DONE] complate user page
+	[DONE]save and edit Card Page for date. [OK]
+	[DONE]active and deactive states.
+
+#1396/01/29
+Ojvar:
+	[DONE]Set Calender for :
+		- birthdate [OK]
+		- StartDate and endDate Card.[OK]
+		- gateOption [OK]
+	[DONE]Search User Information or Report based Nationality code or Date or student code/person code.[OK]
+	[DONE]How save image in table people?
+
+	Persian Calender[OK]
+
+	[DONE] Appear the minimize menu button	(Top of screen)
+
+	[DONE] Set Calender for :	(DateTime Picker - VuePersianDatePicker https://github.com/dyonir/vue2-persian-datepicker)
+		- birthdate
+		- StartDate and endDate Card.
+		- gateOption
+
+	[DONE] Complete Chart in Dashboard		(vue-highcharts, http://localhost:8000/test2)
+
+	Check design : User wizard form
+		Tab titles palced wrong!	(Hesab Karbari)
+
+	How to save image in table people?		(Form data sending image)
+
+	Complete button setting profile.
+			Profile link 	-> open user profile page
+			setting 		-> open chagne password page
+
+	 STEP 2
+	[DONE]Search User Information				(Report)
+		 or Report based Nationality code
+		 or Date or student code/person code.
+
+	Report maker for the app
+
+	Gadget
+	 ماژولار نویسی : ارسال SMS
+	 نمایش پیام ثبت شده برای دانشجو در زمان عبور از گیت
+
+	STEP 3
+	Import data:
+		1- Import data from excel file
+
+
+
+
+

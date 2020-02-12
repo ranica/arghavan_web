@@ -1,0 +1,61 @@
+{
+	"PlateWord": {
+		"data": [
+			{
+				"state": "الف"
+			},
+			{
+				"state": "ب"
+			},
+			{
+				"state": "پ"
+			},
+			{
+				"state": "ت"
+			},
+			{
+				"state": "ج"
+			},
+			{
+				"state": "د"
+			},
+			{
+				"state": "س"
+			},
+			{
+				"state": "ص"
+			},
+			{
+				"state": "ط"
+            },
+            {
+				"state": "ق"
+            },
+            {
+				"state": "ک"
+            },
+            {
+				"state": "ع"
+            },
+            {
+				"state": "ل"
+            },
+            {
+				"state": "م"
+            },
+            {
+				"state": "ن"
+            },
+            {
+				"state": "و"
+            },
+            {
+				"state": "ه"
+            },
+            {
+				"state": "ی"
+			}
+		],
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+	}
+}

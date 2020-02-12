@@ -1,0 +1,15 @@
+
+
+
+
+
+select users.code, people.name, people.lastname from users
+
+
+INNER JOIN people on people.id = users.people_id
+
+WHERE users.id  in 
+
+(SELECT  users.id  from users
+
+WHERE users.id NOT IN( SELECT user_id from fingerprints))

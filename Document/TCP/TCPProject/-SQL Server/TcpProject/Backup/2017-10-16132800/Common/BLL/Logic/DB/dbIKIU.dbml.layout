@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12, 14.125" name="dbIKIU">
+  <DataContextMoniker Name="/dbIKIUDataContext" />
+  <nestedChildShapes>
+    <classShape Id="26710e4c-cd13-465f-bd01-39e5509a47d2" absoluteBounds="0.75, 5.75, 2, 2.9247054036458318">
+      <DataClassMoniker Name="/dbIKIUDataContext/gitdevice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0d062efd-3f19-426a-a39b-9978e7db7475" absoluteBounds="0.765, 6.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ad4a7a44-c504-4094-a257-ed11858cfad6" absoluteBounds="6.75, 0.75, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/dbIKIUDataContext/HC_direction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="393971ff-42a5-42ae-bafe-033287841425" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="24de2d86-9127-46e7-ad50-20167cae3c14" absoluteBounds="6.5, 8, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/dbIKIUDataContext/gitlog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9f145b3-21b9-4557-b631-2697ff5734d7" absoluteBounds="6.515, 8.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8152ee37-0264-44ca-b88d-08f98372b415" absoluteBounds="6.5, 2.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/dbIKIUDataContext/gitlogOperator" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97ee7b2f-8556-4d43-b4f9-45f20691b936" absoluteBounds="6.515, 2.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5734ce8a-17d5-40bf-9b40-4f6799d3aa81" absoluteBounds="3.75, 8.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/dbIKIUDataContext/gitmessage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="874b652d-99e3-4c90-b298-97bc8f03b38a" absoluteBounds="3.765, 9.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="afc5493a-c3e2-445a-ac4f-b79f2755d943" absoluteBounds="3.875, 3.125, 2, 1.1939925130208327">
+      <DataClassMoniker Name="/dbIKIUDataContext/gitmsgOperator" />
+      <nestedChildShapes>
+        <elementListCompartment Id="45b8f755-7728-471c-b132-33638582f0d8" absoluteBounds="3.89, 3.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bed80c9b-2b9b-4cf1-b25e-23d80b0c9d07" absoluteBounds="0.75, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/dbIKIUDataContext/gitoperator" />
+      <nestedChildShapes>
+        <elementListCompartment Id="598d7add-d9c3-4e07-bebd-29f2880898f0" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="171769e5-1d56-4ea4-b033-9757111715c8" absoluteBounds="9.75, 0.75, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/dbIKIUDataContext/gitoption" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4f113de6-fe0c-4ca4-b872-94435e334d97" absoluteBounds="9.765, 1.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="426c2d69-74a6-48f2-91e3-68e7ef10f4f9" absoluteBounds="3.5, 1.375, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/dbIKIUDataContext/gitpermit" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1f36d64b-1036-4033-b09b-dfa65c6e8b54" absoluteBounds="3.515, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="291f081b-fba9-43d0-b8d2-ce76a66cf3ce" absoluteBounds="9.75, 4.75, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/dbIKIUDataContext/gituser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="68f31f88-0073-4ffb-b338-c9297db3c871" absoluteBounds="9.765, 5.21, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.75 : 9.34699625651042); (6.5 : 9.34699625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbIKIUDataContext/gitmessage/gitmessage_gitlog" />
+      <nodes>
+        <classShapeMoniker Id="5734ce8a-17d5-40bf-9b40-4f6799d3aa81" />
+        <classShapeMoniker Id="24de2d86-9127-46e7-ad50-20167cae3c14" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.875 : 3.72199625651042); (6.5 : 3.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbIKIUDataContext/gitmsgOperator/gitmsgOperator_gitlogOperator" />
+      <nodes>
+        <classShapeMoniker Id="afc5493a-c3e2-445a-ac4f-b79f2755d943" />
+        <classShapeMoniker Id="8152ee37-0264-44ca-b88d-08f98372b415" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.21235270182292); (3.65625 : 7.21235270182292); (3.65625 : 2.7612939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbIKIUDataContext/gitdevice/gitdevice_gitpermit" />
+      <nodes>
+        <classShapeMoniker Id="26710e4c-cd13-465f-bd01-39e5509a47d2" />
+        <classShapeMoniker Id="426c2d69-74a6-48f2-91e3-68e7ef10f4f9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.06814697265625); (3.5 : 2.06814697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dbIKIUDataContext/gitoperator/gitoperator_gitpermit" />
+      <nodes>
+        <classShapeMoniker Id="bed80c9b-2b9b-4cf1-b25e-23d80b0c9d07" />
+        <classShapeMoniker Id="426c2d69-74a6-48f2-91e3-68e7ef10f4f9" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="961d9edc-994e-431d-a0e8-c9fe112eee91" absoluteBounds="0.75, 9, 2, 4.8477197265625">
+      <DataClassMoniker Name="/dbIKIUDataContext/tbreqguest" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5f0e9cd0-90da-4059-87c3-ac565a972b69" absoluteBounds="0.76499999999999968, 9.46, 1.9700000000000002, 4.2877197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

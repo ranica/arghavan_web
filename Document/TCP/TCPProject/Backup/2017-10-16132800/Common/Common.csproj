@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C7217EC5-E04F-4D10-9D1A-C577C24E34E2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Common</RootNamespace>
+    <AssemblyName>Common</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\Entity\SQLIKIU\device.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\deviceInfo.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\food.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\guest.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\HC__Direction.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\infoPerson.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\infoShow.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\logInfo.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\logOperator.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\operatorInfo.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\option.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\studentInfo.cs" />
+    <Compile Include="BLL\Entity\SQLIKIU\user.cs" />
+    <Compile Include="BLL\Logic\DB\dbIKIU.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbIKIU.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="BLL\Logic\DB\dbTest.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbTest.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="BLL\Logic\SQLIKIU\foodParse.cs" />
+    <Compile Include="BLL\Logic\SQLIKIU\foodReserve.cs" />
+    <Compile Include="BLL\Logic\SQLIKIU\gitDevice.cs" />
+    <Compile Include="BLL\Logic\SQLIKIU\gitError.cs" />
+    <Compile Include="BLL\Logic\SQLIKIU\gitLog.cs" />
+    <Compile Include="BLL\Logic\SQLIKIU\gitOption.cs" />
+    <Compile Include="BLL\Logic\SQLIKIU\gitUser.cs" />
+    <Compile Include="BLL\Logic\SQLIKIU\foodSQLHelper.cs" />
+    <Compile Include="BLL\Logic\SQLIKIU\tbGuest.cs" />
+    <Compile Include="Enum\EnumColorFood.cs" />
+    <Compile Include="Enum\EnumCommandStatus.cs" />
+    <Compile Include="Enum\EnumDirection.cs" />
+    <Compile Include="Enum\EnumKindGuest.cs" />
+    <Compile Include="Enum\EnumGenType.cs" />
+    <Compile Include="Enum\EnumMessageFood.cs" />
+    <Compile Include="Enum\EnumMessageType.cs" />
+    <Compile Include="Enum\EnumOperatorMessage.cs" />
+    <Compile Include="Enum\EnumSuitType.cs" />
+    <Compile Include="Enum\EnumTypeGenzoon.cs" />
+    <Compile Include="Enum\EnumZoon.cs" />
+    <Compile Include="Helper\Extensions\StringExtension.cs" />
+    <Compile Include="Helper\Language\PersianCulture.cs" />
+    <Compile Include="Helper\Logger\EventLogHandler.cs" />
+    <Compile Include="Helper\Logger\Logger.cs" />
+    <Compile Include="Helper\Reader\NFC_PSPC.cs" />
+    <Compile Include="Helper\Security\SSTCryptographer.cs" />
+    <Compile Include="Helper\Windows\RegistryHelper.cs" />
+    <Compile Include="Helper\Windows\ServiceHelper.cs" />
+    <Compile Include="Initializer.cs" />
+    <Compile Include="Model\CommandResult.cs" />
+    <Compile Include="Model\ListInfo.cs" />
+    <Compile Include="Network\Core\NetTcpClient.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BLL\Logic\DB\dbIKIU.dbml.layout">
+      <DependentUpon>dbIKIU.dbml</DependentUpon>
+    </None>
+    <None Include="BLL\Logic\DB\dbTest.dbml.layout">
+      <DependentUpon>dbTest.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="BLL\Logic\DB\dbIKIU.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>dbIKIU.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BLL\Logic\DB\dbTest.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>dbTest.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
